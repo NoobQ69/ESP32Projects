@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=3.3V Pin=*-1
+Removed Pin From Net: NetName=3.3V Pin=*-1
+Removed Pin From Net: NetName=3.3V Pin=*-1
+Removed Pin From Net: NetName=3.3V Pin=*-1
+Removed Pin From Net: NetName=ADC1 Pin=*-2
+Removed Pin From Net: NetName=ADC2 Pin=*-2
+Removed Pin From Net: NetName=ADC3 Pin=*-2
+Removed Pin From Net: NetName=ADC4 Pin=*-2
+Removed Member From Class: ClassName=LightSensors_SCH Member=*
+Added Component: Designator=JP2(Header_Duc Cong_2P 2.54)
+Added Component: Designator=JP3(Header_Duc Cong_2P 2.54)
+Added Component: Designator=JP4(Header_Duc Cong_2P 2.54)
+Added Component: Designator=JP5(Header_Duc Cong_2P 2.54)
+Added Pin To Net: NetName=ADC1 Pin=JP2-1
+Added Pin To Net: NetName=3.3V Pin=JP2-2
+Added Pin To Net: NetName=ADC2 Pin=JP3-1
+Added Pin To Net: NetName=3.3V Pin=JP3-2
+Added Pin To Net: NetName=ADC3 Pin=JP4-1
+Added Pin To Net: NetName=3.3V Pin=JP4-2
+Added Pin To Net: NetName=ADC4 Pin=JP5-1
+Added Pin To Net: NetName=3.3V Pin=JP5-2
+Added Member To Class: ClassName=LightSensors_SCH Member=Component JP2 Header 1_2.54_2P
+Added Member To Class: ClassName=LightSensors_SCH Member=Component JP3 Header 1_2.54_2P
+Added Member To Class: ClassName=LightSensors_SCH Member=Component JP4 Header 1_2.54_2P
+Added Member To Class: ClassName=LightSensors_SCH Member=Component JP5 Header 1_2.54_2P
+Added Room: Name=LightSensors_SCH

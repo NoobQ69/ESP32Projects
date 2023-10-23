@@ -1,0 +1,51 @@
+Added Component: Designator=*(jump don duc_2p)
+Added Component: Designator=*(jump don duc_2p)
+Added Component: Designator=*(jump don duc_2p)
+Added Component: Designator=*(jump don duc_2p)
+Added Component: Designator=JP1(JP6)
+Added Component: Designator=R1(tro vach 1/4w)
+Added Component: Designator=R2(tro vach 1/4w)
+Added Component: Designator=R3(tro vach 1/4w)
+Added Component: Designator=R4(tro vach 1/4w)
+Added Component: Designator=R5(tro vach 1/4w)
+Added Component: Designator=R6(tro vach 1/4w)
+Added Component: Designator=R7(tro vach 1/4w)
+Added Component: Designator=R8(tro vach 1/4w)
+Added Pin To Net: NetName=3.3V Pin=*-1
+Added Pin To Net: NetName=3.3V Pin=*-1
+Added Pin To Net: NetName=3.3V Pin=*-1
+Added Pin To Net: NetName=3.3V Pin=*-1
+Added Pin To Net: NetName=3.3V Pin=JP1-6
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=ADC1 Pin=*-2
+Added Pin To Net: NetName=ADC1 Pin=JP1-1
+Added Pin To Net: NetName=ADC1 Pin=R5-2
+Added Net: Name=ADC1
+Added Pin To Net: NetName=ADC2 Pin=*-2
+Added Pin To Net: NetName=ADC2 Pin=JP1-2
+Added Pin To Net: NetName=ADC2 Pin=R6-2
+Added Net: Name=ADC2
+Added Pin To Net: NetName=ADC3 Pin=*-2
+Added Pin To Net: NetName=ADC3 Pin=JP1-3
+Added Pin To Net: NetName=ADC3 Pin=R7-2
+Added Net: Name=ADC3
+Added Pin To Net: NetName=ADC4 Pin=*-2
+Added Pin To Net: NetName=ADC4 Pin=JP1-4
+Added Pin To Net: NetName=ADC4 Pin=R8-2
+Added Net: Name=ADC4
+Added Pin To Net: NetName=GND Pin=JP1-5
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Net: Name=GND
+Added Class: Name=LightSensors_SCH
+Added Room: Name=LightSensors_SCH

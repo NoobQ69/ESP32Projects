@@ -1,0 +1,7 @@
+Change Component Comment : Designator=* Old Comment=jump don duc 2.54_2p New Comment=jump don duc 2.54_1p
+Change Component Comment : Designator=* Old Comment=jump don duc 2.54_2p New Comment=jump don duc 2.54_3p
+Change Component Comment : Designator=* Old Comment=jump don duc 2.54_2p New Comment=jump don duc 2.54_4p
+Added Member To Class: ClassName=LightSensors_SCH Member=Component * jump don duc 2.54_2p
+Added Member To Class: ClassName=LightSensors_SCH Member=Component * jump don duc 2.54_4p
+Added Member To Class: ClassName=LightSensors_SCH Member=Component * jump don duc 2.54_3p
+Added Room: Name=LightSensors_SCH
