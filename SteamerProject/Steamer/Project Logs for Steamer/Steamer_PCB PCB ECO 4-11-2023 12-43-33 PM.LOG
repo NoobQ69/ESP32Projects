@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=RCLK2 Pin=U1-12
+Removed Pin From Net: NetName=DIO2 Pin=U1-14
+Added Component: Designator=R14(tro vach 1/4w)
+Added Component: Designator=SW2(SW2)
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=H Pin=R14-2
+Added Pin To Net: NetName=R4 Pin=SW2-1
+Added Pin To Net: NetName=C2 Pin=SW2-2
+Added Pin To Net: NetName=DIO2 Pin=U1-12
+Added Pin To Net: NetName=RCLK2 Pin=U1-14
+Added Member To Class: ClassName=Steamer_SCH Member=Component R14 220R
+Added Member To Class: ClassName=Steamer_SCH Member=Component SW2 Nut Nhan 2 Chan ( Dip )
+Added Room: Name=Steamer_SCH

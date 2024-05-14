@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=R1 Pin=A1-A0
+Removed Pin From Net: NetName=R2 Pin=A1-A1
+Removed Pin From Net: NetName=R3 Pin=A1-A2
+Removed Pin From Net: NetName=R4 Pin=A1-A3
+Removed Pin From Net: NetName=C1 Pin=A1-A4
+Removed Pin From Net: NetName=C2 Pin=A1-A5
+Removed Pin From Net: NetName=RX Pin=A1-D0
+Removed Pin From Net: NetName=TX Pin=A1-D1
+Removed Pin From Net: NetName=DIO Pin=A1-D2
+Removed Pin From Net: NetName=RCLK Pin=A1-D3
+Removed Pin From Net: NetName=SCLK Pin=A1-D4
+Removed Pin From Net: NetName=TI1 Pin=A1-D5
+Removed Pin From Net: NetName=TI2 Pin=A1-D6
+Removed Pin From Net: NetName=TE1 Pin=A1-D7
+Removed Pin From Net: NetName=TE2 Pin=A1-D8
+Removed Pin From Net: NetName=TE3 Pin=A1-D9
+Removed Pin From Net: NetName=DE_RE Pin=A1-D10
+Removed Pin From Net: NetName=RCLK2 Pin=A1-D11
+Removed Pin From Net: NetName=SCLK2 Pin=A1-D12
+Removed Pin From Net: NetName=DIO2 Pin=A1-D13
+Removed Pin From Net: NetName=GND Pin=A1-GND_1
+Removed Pin From Net: NetName=5V Pin=A1-VIN
+Removed Pin From Net: NetName=TE3 Pin=IC1-8
+Removed Pin From Net: NetName=TE2 Pin=IC1-9
+Removed Pin From Net: NetName=TE1 Pin=IC1-12
+Removed Pin From Net: NetName=TI2 Pin=LED7_MPX3_?-7
+Removed Pin From Net: NetName=TI1 Pin=LED7_MPX3_?-8
+Removed Member From Class: ClassName=SCH_SteamShower Member=A1
+Change Component Designator: OldDesignator=LED7_MPX3_? NewDesignator=LED7
+Added Component: Designator=Arduino Uno(ARDUINO UNO)
+Added Component: Designator=Q1(QTO-92)
+Added Component: Designator=Q2(QTO-92)
+Added Component: Designator=Q3(QTO-92)
+Added Component: Designator=Q4(QTO-92)
+Added Component: Designator=Q5(QTO-92)
+Added Component: Designator=R17(tro vach 1/4w)
+Added Component: Designator=R18(tro vach 1/4w)
+Added Component: Designator=R19(tro vach 1/4w)
+Added Component: Designator=R20(tro vach 1/4w)
+Added Component: Designator=R21(tro vach 1/4w)
+Added Pin To Net: NetName=RX Pin=Arduino Uno-0
+Added Pin To Net: NetName=TX Pin=Arduino Uno-1
+Added Pin To Net: NetName=DIO Pin=Arduino Uno-2
+Added Pin To Net: NetName=RCLK Pin=Arduino Uno-3
+Added Pin To Net: NetName=SCLK Pin=Arduino Uno-4
+Added Pin To Net: NetName=TI1 Pin=Arduino Uno-5
+Added Pin To Net: NetName=TI2 Pin=Arduino Uno-6
+Added Pin To Net: NetName=TE1 Pin=Arduino Uno-7
+Added Pin To Net: NetName=TE2 Pin=Arduino Uno-8
+Added Pin To Net: NetName=TE3 Pin=Arduino Uno-9
+Added Pin To Net: NetName=DE_RE Pin=Arduino Uno-10
+Added Pin To Net: NetName=RCLK2 Pin=Arduino Uno-11
+Added Pin To Net: NetName=SCLK2 Pin=Arduino Uno-12
+Added Pin To Net: NetName=DIO2 Pin=Arduino Uno-13
+Added Pin To Net: NetName=R1 Pin=Arduino Uno-A0
+Added Pin To Net: NetName=R2 Pin=Arduino Uno-A1
+Added Pin To Net: NetName=R3 Pin=Arduino Uno-A2
+Added Pin To Net: NetName=R4 Pin=Arduino Uno-A3
+Added Pin To Net: NetName=C1 Pin=Arduino Uno-A4
+Added Pin To Net: NetName=C2 Pin=Arduino Uno-A5
+Added Pin To Net: NetName=GND Pin=Arduino Uno-GND2
+Added Pin To Net: NetName=5V Pin=Arduino Uno-Vin
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Pin To Net: NetName=TE1 Pin=R17-1
+Added Pin To Net: NetName=TE2 Pin=R18-1
+Added Pin To Net: NetName=TE3 Pin=R19-1
+Added Pin To Net: NetName=TI1 Pin=R20-1
+Added Pin To Net: NetName=TI2 Pin=R21-1
+Added Pin To Net: NetName=DI1 Pin=IC1-12
+Added Pin To Net: NetName=DI1 Pin=Q1-2
+Added Net: Name=DI1
+Added Pin To Net: NetName=DI2 Pin=IC1-9
+Added Pin To Net: NetName=DI2 Pin=Q2-2
+Added Net: Name=DI2
+Added Pin To Net: NetName=DI3 Pin=IC1-8
+Added Pin To Net: NetName=DI3 Pin=Q3-2
+Added Net: Name=DI3
+Added Pin To Net: NetName=DIGIT1 Pin=LED7-8
+Added Pin To Net: NetName=DIGIT1 Pin=Q4-2
+Added Net: Name=DIGIT1
+Added Pin To Net: NetName=DIGIT2 Pin=LED7-7
+Added Pin To Net: NetName=DIGIT2 Pin=Q5-2
+Added Net: Name=DIGIT2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R17-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R18-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R19-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R20-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R21-2
+Added Net: Name=NetQ5_1
+Added Member To Class: ClassName=SCH_SteamShower Member=Component Arduino Uno ARDUINO UNO
+Added Member To Class: ClassName=SCH_SteamShower Member=Component Q1 C1815
+Added Member To Class: ClassName=SCH_SteamShower Member=Component Q2 C1815
+Added Member To Class: ClassName=SCH_SteamShower Member=Component Q3 C1815
+Added Member To Class: ClassName=SCH_SteamShower Member=Component Q4 C1815
+Added Member To Class: ClassName=SCH_SteamShower Member=Component Q5 C1815
+Added Member To Class: ClassName=SCH_SteamShower Member=Component R17 1k
+Added Member To Class: ClassName=SCH_SteamShower Member=Component R18 1k
+Added Member To Class: ClassName=SCH_SteamShower Member=Component R19 1k
+Added Member To Class: ClassName=SCH_SteamShower Member=Component R20 1k
+Added Member To Class: ClassName=SCH_SteamShower Member=Component R21 1k

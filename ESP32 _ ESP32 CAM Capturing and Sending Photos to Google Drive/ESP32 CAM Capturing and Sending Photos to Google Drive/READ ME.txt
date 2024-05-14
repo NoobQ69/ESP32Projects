@@ -1,0 +1,20 @@
+> If you notice that the code in the video is slightly different from the code I shared, it's because I added a few lines of code to make the code work better.
+  So you still follow the code that I share.
+
+> When the ESP32-CAM takes photos or the process of sending photos to Google Drive is in progress,
+  the ESP32-CAM requires a large amount of power. So I suggest that you use a 5V power supply with a current of approximately 2A.
+
+> In some conditions, such as when the ESP32-CAM runs the program code for the first time OR when the ESP32-CAM has just been turned on OR when the ESP32-CAM is restarted,
+  then when connecting to "script.google.com" a failure will occur and the serial monitor will display the information "Connected to script.google.com failed".
+  The solution is that you simply have to wait until the ESP32-CAM is successfully connected,
+  because in the Arduino program code I have added a subroutine that functions to reconnect if it fails to connect to "script.google.com".
+  Based on my testing, after failing to connect to "script.google.com" 3 or 8 times, the next connection will be successful.
+  But if failed to connect to "script.google.com" more than 15 times, you should double check your code, maybe you missed something, or check your WiFi hotspot/router connection,
+  maybe your WiFi hotspot/router doesn't have internet connection.
+  I don't know if the problem only happens to my ESP32-CAM module or it also happens to other ESP32-CAM modules.
+  I only have one ESP32-CAM module, so I can't test it on other ESP32-CAM.
+  Until now, I don't know why this problem can occur, I'm still looking for the cause, if you know the cause, please tell me or us in the comments column in this video.
+
+> If the ESP32-CAM fails to send photos to Google Drive, then do the steps below :
+  - Pay attention to the line of code "s->set_framesize(s, FRAMESIZE_SXGA);" on "void setup".
+  - Change FRAMESIZE_SXGA to a lower resolution, for example change to: FRAMESIZE_XGA or FRAMESIZE_SVGA or to even lower resolution.

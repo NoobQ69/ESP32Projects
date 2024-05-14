@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=LS1 Old Footprint=SP1 New Footprint=SPK
+Change Component Description : Designator=J1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JDC Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R10 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R11 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R12 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R13 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R14 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R17 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R18 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R19 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R20 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R21 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R22 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R15 Old Description=Cam New Description=Cam
+Change Component Description : Designator=R16 Old Description=Cam New Description=Cam
+Added Component: Designator=MAX1(MAX485_Module)
+Added Pin To Net: NetName=RX Pin=MAX1-1
+Added Pin To Net: NetName=DE_RE Pin=MAX1-2
+Added Pin To Net: NetName=DE_RE Pin=MAX1-3
+Added Pin To Net: NetName=TX Pin=MAX1-4
+Added Pin To Net: NetName=GND Pin=MAX1-5
+Added Pin To Net: NetName=5V Pin=MAX1-8
+Added Member To Class: ClassName=Steamer_SCH Member=Component MAX1 Component_1
+Added Room: Name=Steamer_SCH

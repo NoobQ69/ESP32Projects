@@ -1,0 +1,14 @@
+Change Component Description : Designator=J1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=J4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW2 Old Description=C?m New Description=C?m
+Added Component: Designator=J5(JP3)
+Added Pin To Net: NetName=5V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=A0 Pin=J5-3
+Added Pin To Net: NetName=A0 Pin=U1-28
+Added Net: Name=A0
+Added Member To Class: ClassName=SkyWindow_SCH Member=Component J4 2.54_4P
+Added Member To Class: ClassName=SkyWindow_SCH Member=Component J5 2.54_3P
+Added Room: Name=SkyWindow_SCH

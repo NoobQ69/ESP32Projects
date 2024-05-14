@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ESP Wi-Fi Manager</title>
+  <head><meta charset="UTF-8"></head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="sub-topnav">
+    <h1 class="h1-text">ESP Wi-Fi Manager</h1>
+  </div>
+  <div class="content">
+    <div class="card-grid">
+      <div class="card">
+        <form action="/wifi_submit" method="POST">
+            <div class="input-form">
+                <div class="input-labels">
+                    <label class="input-labels-alignment" for="ssid">SSID</label><br>
+                    <label class="input-labels-alignment" for="pass">Password</label><br>
+                    <label class="input-labels-alignment" for="ip">IP Address</label><br>
+                    <label class="input-labels-alignment" for="gateway">Gateway Address</label><br>
+                </div>
+                <div class="input-boxs">
+                    <input type="text" class="input-box-alignment" id ="ssid" class="input-wifi-data" name="ssid"><br>
+                    <input type="text" class="input-box-alignment" id ="pass" class="input-wifi-data" name="pass"><br>
+                    <input type="text" class="input-box-alignment" id ="ip" class="input-wifi-data" name="ip" value="192.168.1.200"><br>
+                    <input type="text" class="input-box-alignment" id ="gateway" class="input-wifi-data" name="gateway" value="192.168.1.1"><br>
+                </div>
+            </div>
+            <input type ="submit" value ="Submit">
+        </form>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

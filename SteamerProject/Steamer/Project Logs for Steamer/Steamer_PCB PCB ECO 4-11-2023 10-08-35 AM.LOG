@@ -1,0 +1,50 @@
+Change Component Description : Designator=J1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JDC Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LED6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=LS1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R10 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R11 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R12 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R13 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R14 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R17 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R18 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R19 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R20 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R21 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R22 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=SW9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R15 Old Description=Cam New Description=Cam
+Change Component Description : Designator=R16 Old Description=Cam New Description=Cam
+Added Pin To Net: NetName=GND Pin=Arduino Mega-76
+Added Pin To Net: NetName=GND Pin=Arduino Mega-79
+Added Member To Class: ClassName=Steamer_SCH Member=Component R1 220R
+Added Member To Class: ClassName=Steamer_SCH Member=Component R2 220R
+Added Member To Class: ClassName=Steamer_SCH Member=Component R3 220R
+Added Member To Class: ClassName=Steamer_SCH Member=Component R4 220R
+Added Member To Class: ClassName=Steamer_SCH Member=Component R5 220R
+Added Member To Class: ClassName=Steamer_SCH Member=Component R6 220R
+Added Member To Class: ClassName=Steamer_SCH Member=Component U1 74HC595
+Added Room: Name=Steamer_SCH

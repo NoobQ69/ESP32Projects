@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=DE_RE Pin=MAX1-2
+Added Pin To Net: NetName=DE_RE Pin=MAX1-3
+Added Pin To Net: NetName=GND Pin=MAX1-5
+Added Pin To Net: NetName=5V Pin=MAX1-8

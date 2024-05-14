@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "water-tank-database",
+  "private_key_id": "087ae99debbc412a57a33ed70453fdd133445639",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDbGslPyEabwMnx\nVe7T2+VtZKewVG6dUARz3Wt72YX/B4bOhVQ0Z63xW++zhgNjwK9ucZ4RvjjlaEEU\nHfMzzuX3yWKZ4YB39xFRY1rHcvBO4dOh8xpFTsuS+OQZwiW/LwwHDYGir2u7Nekc\nOfKqGO17787iLkUt9S8NDeMhsKT7JnA7HMwrT1WI3DrzOu0eTLIqE4dLsyR/FBEn\ngwxlaRpL28KYbbQuuT1fxER11NWlfoSn1B6cASiqbpaany8N0XbRxXIZvhGPTlG3\nSURjFMzOYF0Gw+5qbqd+mzrPM9rfmtcgVrcANlIg7jg0Rxg2S58cMzmRrV9ixy06\nWFEBERaJAgMBAAECggEAMnzWJZW7O3mtrvhDu7rgf5ghkd6qzIIbPI2pjlTd7RnR\nZPZRJHA9oy+xqNb5IfvNEPCKYYFJQAeJc3bBS09iK3pSx62wOjSK34u659mi6TJd\nX2SSyaSyATBr80mLBCZ1qYxhslikxPNTv2bU9YAf/R6RuAm8dC4axPHNxD4djids\nlwTRf1f6e9Ee7FQpR+dYkUCuHACIA/mAsYdbxt3vEQultTua4tGj2f4/9jHaNWtt\nd9Wu7AwNnC6G30jShTvtr8koIKaMB9wvqR/CVVC4/NyHCqklED9tAAoRVaEvqkSU\nD1+hJf3mQF9DM8fnqJPYVEEpqlwlFIa4fyvntWxNVwKBgQD3G1YxqhQ/sfS68n4e\n0FWfKR5xAQk3cuJGunwLjKSr8jXtcY9bSAYdHxCwmVYpJoXTlbERMPE224Jx1h1u\nctt+jKQ7UBKW3L6WqNOoLReOmnlWBUaOJ0/urikV6IF5mCsUTKySlfW9RydKUGRG\nN9hD3dabhyUwHN2f/+IfNQsw6wKBgQDi/XVGt43DT/TapVbwkDg/HG6rOn09hLso\nd2JV1OG5pIVdhh3FYMdfSU2JOZKcZ2oV0gN5nDTYp/S+7pHgggipInlfx+dkldL+\n5sSMNyhwnc8+0084c8w4lO0ofdtoP0DMblBqR84ZyrTfyRDylZpJxd4OLY7UsiU9\nN4oFmP9ZWwKBgQCuzM+0YjPguun8NP2ynn1zEYtPNQRoDQS0M8b8BImYeMZdKS/X\nyqNIhmkwA8hHY9DXU9Tl7FE2FSG5lVVMhENwydyDeKktvwmzWcof9YXsgqnCiAjZ\nFkYc+WZm8QpmEZanzXVmXF5xfpv0ndnRMj/yAkOF0Zwk5MaCIGi82rEH8QKBgQDf\naYgcal1ldzUQXtwLOmeh9mIWtiK+gf2T/q0SvczN41hAjNiQhIi3CHcAMWJT/pUz\nlNlGwLBi7iy+ICIETvgnQH8l/qOJJM3fhVK+jyuGbEynEWRPs+m1Zx9lUzq4iElG\n7OzJLpN0X0dXW5cKrKSHJ/E/EygZwJ1We2ulxsjNMQKBgClESybCghzMLToAlqwB\n/jHhLq2n/iNVNWgpHf1irfd+zhlmPmoPd5QvADGh1a+8PUM983u2U/VA4gBzOxyd\n7mW2DHHyrg+L7SQuXWkgGu+9ZuvkQgbdP/3+IWrwKEwx94Q4s88jULS+JOjFvSOo\ninMWWH7hcDbughnpz1ShYLH+\n-----END PRIVATE KEY-----\n",
+  "client_email": "node-red@water-tank-database.iam.gserviceaccount.com",
+  "client_id": "103695281385555745252",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/node-red%40water-tank-database.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

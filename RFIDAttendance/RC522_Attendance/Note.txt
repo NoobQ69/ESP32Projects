@@ -1,0 +1,21 @@
+HTTP_PORTAL_MENU
+HTTP_STYLE
+
+autoConnect
+_begin
+WiFi_autoReconnect
+setSTAConfig
+startConfigPortal
+startAP
+setupConfigPortal
+
+setupHTTPServer
+	handleRoot
+	handleRequest
+		getMenuOut
+
+getMenuOut
+	_menuIds
+setMenu
+	_menuIdsDefault
+WiFiManagerInit

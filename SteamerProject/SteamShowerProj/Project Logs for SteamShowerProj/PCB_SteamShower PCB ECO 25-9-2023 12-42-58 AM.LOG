@@ -1,0 +1,12 @@
+Added Component: Designator=LED7_MPX3_?(5621AS_Lib)
+Added Pin To Net: NetName=C Pin=LED7_MPX3_?-1
+Added Pin To Net: NetName=DP Pin=LED7_MPX3_?-2
+Added Pin To Net: NetName=E Pin=LED7_MPX3_?-3
+Added Pin To Net: NetName=D Pin=LED7_MPX3_?-4
+Added Pin To Net: NetName=G Pin=LED7_MPX3_?-5
+Added Pin To Net: NetName=F Pin=LED7_MPX3_?-6
+Added Pin To Net: NetName=TI2 Pin=LED7_MPX3_?-7
+Added Pin To Net: NetName=TI1 Pin=LED7_MPX3_?-8
+Added Pin To Net: NetName=B Pin=LED7_MPX3_?-9
+Added Pin To Net: NetName=A Pin=LED7_MPX3_?-10
+Added Member To Class: ClassName=SCH_SteamShower Member=Component LED7_MPX3_? Component_1

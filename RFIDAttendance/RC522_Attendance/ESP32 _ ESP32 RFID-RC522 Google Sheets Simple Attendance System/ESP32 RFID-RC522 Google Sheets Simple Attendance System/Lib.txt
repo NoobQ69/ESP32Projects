@@ -1,0 +1,2 @@
+- MFRC522 by GithubCommunity (V1.4.3) : Install via "Manage Libraries" or "Library Manager" in the Arduino IDE with the search keyword "MFRC522".
+- LiquidCrystal_I2C (V1.1.4)          : https://github.com/johnrickman/LiquidCrystal_I2C

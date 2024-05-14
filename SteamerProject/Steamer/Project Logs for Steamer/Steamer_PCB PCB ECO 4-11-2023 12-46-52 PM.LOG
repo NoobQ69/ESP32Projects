@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIO2 Pin=Arduino Mega-11
+Removed Pin From Net: NetName=SCLK2 Pin=Arduino Mega-12
+Added Pin To Net: NetName=SCLK2 Pin=Arduino Mega-11
+Added Pin To Net: NetName=DIO2 Pin=Arduino Mega-12

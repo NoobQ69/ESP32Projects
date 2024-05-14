@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ESP WEB SERVER</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="menu-body">
+        <div class="topnav">
+          <h1 class="h1-text-menu">MENU CONFIG MANAGER</h1>
+        </div>
+        <div class="menu-form">
+            <div><a href="wifi_config"><button class="button-wifi-config menu-btns">Config WiFi</button></a></div>
+            <div><a href="set_time"><button class="button-setup-time menu-btns">Setup Time</button></a></div>
+            <div><a href="register_email"><button class="button-setup-time menu-btns">Register email</button></a></div>
+            <br>
+            %BUTTONPLACEHOLDER%
+        </div>
+    </div>
+    <script>
+      function toggleCheckbox(element) 
+      {
+        var xhr = new XMLHttpRequest();
+        if (element.checked) 
+        { 
+          xhr.open("GET", "/update?output="+element.id+"&state=1", true); 
+        }
+        else 
+        { 
+          xhr.open("GET", "/update?output="+element.id+"&state=0", true); 
+        }
+        xhr.send();
+      }
+    </script>
+  </body>
+</html>

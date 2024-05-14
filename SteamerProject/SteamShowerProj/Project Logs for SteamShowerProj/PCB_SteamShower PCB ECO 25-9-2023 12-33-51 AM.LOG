@@ -1,0 +1,156 @@
+Added Component: Designator=A?(ARDUINO_A000066)
+Added Component: Designator=A?(ARDUINO_A000066)
+Added Component: Designator=A?(ARDUINO_A000066)
+Added Component: Designator=A?(ARDUINO_A000066)
+Added Component: Designator=IC?(7SEG_MPX3)
+Added Component: Designator=LED?(LED 5mm DO)
+Added Component: Designator=LED?(LED 5mm DO)
+Added Component: Designator=LED?(LED 5mm DO)
+Added Component: Designator=LED?(LED 5mm DO)
+Added Component: Designator=LED?(LED 5mm DO)
+Added Component: Designator=LED?(LED 5mm DO)
+Added Component: Designator=MAX485_Module_?(MAX485_Module)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=R?(tro vach 1/4w)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Pin To Net: NetName=5V Pin=A?-VIN
+Added Net: Name=5V
+Added Pin To Net: NetName=A Pin=IC?-11
+Added Pin To Net: NetName=A Pin=R?-2
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=IC?-7
+Added Pin To Net: NetName=B Pin=R?-2
+Added Net: Name=B
+Added Pin To Net: NetName=C1 Pin=A?-A4
+Added Pin To Net: NetName=C1 Pin=R?-1
+Added Pin To Net: NetName=C1 Pin=SW?-2
+Added Pin To Net: NetName=C1 Pin=SW?-2
+Added Pin To Net: NetName=C1 Pin=SW?-2
+Added Pin To Net: NetName=C1 Pin=SW?-2
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=A?-A5
+Added Pin To Net: NetName=C2 Pin=R?-1
+Added Pin To Net: NetName=C2 Pin=SW?-2
+Added Pin To Net: NetName=C2 Pin=SW?-2
+Added Pin To Net: NetName=C2 Pin=SW?-2
+Added Pin To Net: NetName=C2 Pin=SW?-2
+Added Net: Name=C2
+Added Pin To Net: NetName=C Pin=IC?-4
+Added Pin To Net: NetName=C Pin=R?-2
+Added Net: Name=C
+Added Pin To Net: NetName=DE_RE Pin=A?-D10
+Added Net: Name=DE_RE
+Added Pin To Net: NetName=DIO2 Pin=A?-D13
+Added Net: Name=DIO2
+Added Pin To Net: NetName=DIO Pin=A?-D2
+Added Net: Name=DIO
+Added Pin To Net: NetName=DP Pin=IC?-3
+Added Net: Name=DP
+Added Pin To Net: NetName=D Pin=IC?-2
+Added Pin To Net: NetName=D Pin=R?-2
+Added Net: Name=D
+Added Pin To Net: NetName=E Pin=IC?-1
+Added Pin To Net: NetName=E Pin=R?-2
+Added Net: Name=E
+Added Pin To Net: NetName=F Pin=IC?-10
+Added Pin To Net: NetName=F Pin=R?-2
+Added Net: Name=F
+Added Pin To Net: NetName=GND Pin=A?-GND_1
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=G Pin=IC?-5
+Added Pin To Net: NetName=G Pin=R?-2
+Added Net: Name=G
+Added Pin To Net: NetName=H Pin=R?-2
+Added Net: Name=H
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=OFF Pin=LED?-1
+Added Pin To Net: NetName=OFF Pin=R?-2
+Added Net: Name=OFF
+Added Pin To Net: NetName=ON_OFF Pin=LED?-1
+Added Pin To Net: NetName=ON_OFF Pin=R?-2
+Added Net: Name=ON_OFF
+Added Pin To Net: NetName=R1 Pin=A?-A0
+Added Pin To Net: NetName=R1 Pin=SW?-1
+Added Pin To Net: NetName=R1 Pin=SW?-1
+Added Net: Name=R1
+Added Pin To Net: NetName=R2 Pin=A?-A1
+Added Pin To Net: NetName=R2 Pin=SW?-1
+Added Pin To Net: NetName=R2 Pin=SW?-1
+Added Net: Name=R2
+Added Pin To Net: NetName=R3 Pin=A?-A2
+Added Pin To Net: NetName=R3 Pin=SW?-1
+Added Pin To Net: NetName=R3 Pin=SW?-1
+Added Net: Name=R3
+Added Pin To Net: NetName=R4 Pin=A?-A3
+Added Pin To Net: NetName=R4 Pin=SW?-1
+Added Pin To Net: NetName=R4 Pin=SW?-1
+Added Net: Name=R4
+Added Pin To Net: NetName=RCLK2 Pin=A?-D11
+Added Net: Name=RCLK2
+Added Pin To Net: NetName=RCLK Pin=A?-D3
+Added Net: Name=RCLK
+Added Pin To Net: NetName=RX Pin=A?-D0
+Added Net: Name=RX
+Added Pin To Net: NetName=SCLK2 Pin=A?-D12
+Added Net: Name=SCLK2
+Added Pin To Net: NetName=SCLK Pin=A?-D4
+Added Net: Name=SCLK
+Added Pin To Net: NetName=START Pin=LED?-1
+Added Pin To Net: NetName=START Pin=R?-2
+Added Net: Name=START
+Added Pin To Net: NetName=STOP Pin=LED?-1
+Added Pin To Net: NetName=STOP Pin=R?-2
+Added Net: Name=STOP
+Added Pin To Net: NetName=TE1 Pin=A?-D7
+Added Pin To Net: NetName=TE1 Pin=IC?-12
+Added Net: Name=TE1
+Added Pin To Net: NetName=TE2 Pin=A?-D8
+Added Pin To Net: NetName=TE2 Pin=IC?-9
+Added Net: Name=TE2
+Added Pin To Net: NetName=TE3 Pin=A?-D9
+Added Pin To Net: NetName=TE3 Pin=IC?-8
+Added Net: Name=TE3
+Added Pin To Net: NetName=TEMP Pin=LED?-1
+Added Pin To Net: NetName=TEMP Pin=R?-2
+Added Net: Name=TEMP
+Added Pin To Net: NetName=TI1 Pin=A?-D5
+Added Net: Name=TI1
+Added Pin To Net: NetName=TI2 Pin=A?-D6
+Added Net: Name=TI2
+Added Pin To Net: NetName=TIME Pin=LED?-1
+Added Pin To Net: NetName=TIME Pin=R?-2
+Added Net: Name=TIME
+Added Pin To Net: NetName=TX Pin=A?-D1
+Added Net: Name=TX
+Added Class: Name=SCH_SteamShower
+Added Room: Name=SCH_SteamShower

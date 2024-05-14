@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Register email</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="topnav">
+      <h1>REGISTER EMAIL</h1>
+    </div>
+    <div class="content">
+      <div class="card-grid">
+        <div class="card">
+          <form action="/reg_email_submit" method="POST">
+              <div class="input-form">
+                  <div class="input-labels">
+                      <label class="input-labels-alignment" for="ssid">Author Email</label><br>
+                      <label class="input-labels-alignment" for="pass">Author Password</label><br>
+                      <label class="input-labels-alignment" for="pass">Recipent email</label><br>
+                  </div>
+                  <div class="input-boxs">
+                      <input type="text" class="input-box-alignment" id ="name_email_id" class="input-wifi-data" name="name_email"><br>
+                      <input type="text" class="input-box-alignment" id ="pass_email_id" class="input-wifi-data" name="pass_email"><br>
+                      <input type="text" class="input-box-alignment" id ="rep_email_id" class="input-wifi-data" name="recipient_email"><br>
+                  </div>
+              </div>
+              <input type ="submit" value ="Submit">
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
